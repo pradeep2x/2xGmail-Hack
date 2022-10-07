@@ -1,26 +1,26 @@
 #!/usr/bin/python
-'''create by Aryan'''
+'''create by Pradeep2x'''
 
 import smtplib
 from os import system
 
 def main():
    print '================================================='
-   print '               Pradeep2x                 '
+   print '               Pradeep2x  { 2xHack }             '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
+   print '                °°°°°°°°°°°°°°°°°°               '
    print '                                                 '
    print '                                                 '
-   print '                                                 '
-   print '           Pradeep2x               '             '
+   print '          Pradeep2x                '             '
    print '      |\             //            '
    print '       \\           _!_            '
    print '        \\         /___\           '
    print '         \\        [+++]           '
    print '          \\    _ _\^^^/_ _        '
    print '           \\/ (    '-'  ( )       '
-   print '           /( \/ | {&}   /\ \      '
+   print '           /( \/ |  {&}  /\ \      '
    print '             \  / \     / _> )     '
    print '              "`   >:::;-'`""'-.   '
    print '      2xHack      /:::/         \  '
