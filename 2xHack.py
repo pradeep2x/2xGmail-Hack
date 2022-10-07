@@ -6,7 +6,7 @@ from os import system
 
 def main():
    print '================================================='
-   print '               Pradeep2x  { 2xHack }             '
+   print '               Pradeep2x                         '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
