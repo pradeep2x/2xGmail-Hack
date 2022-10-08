@@ -29,7 +29,7 @@ def main():
    print '                / /   \'-.___.-'   '
    print '              _/ /     \ \         '
    print '             /___|    /___|        '
-
+   print '           ()  2.0                 '
 
 main()
 print '[1] Start Attack'
