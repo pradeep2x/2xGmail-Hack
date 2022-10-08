@@ -22,14 +22,14 @@ def main():
    print '           \\/ (    '-'  ( )       '
    print '           /( \/ |  {&}  /\ \      '
    print '             \  / \     / _> )     '
-   print '              "`   >:::;-'`""'-.   '
+   print '              ``   >:::;-'```'-.   '
    print '      2xHack      /:::/         \  '
    print '                 /  /||   {&}    | '
    print '                (  / (\         /  '
    print '                / /   \'-.___.-'   '
    print '              _/ /     \ \         '
    print '             /___|    /___|        '
-   print '           ()  2.0                 '
+   print '                ()  2.0            '
 
 main()
 print '[1] Start Attack'
