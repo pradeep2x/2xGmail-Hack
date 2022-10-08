@@ -24,7 +24,7 @@ def main():
    print '             \  / \     / _> )     '
    print '              ``   >:::;-`````x.   '
    print '      2xHack      /:::/         \  '
-   print '                 /  /||   {&}    | '
+   print '                 /  /||   {&}   |  '
    print '                (  / (\         /  '
    print '                / /   \`-.___.-`   '
    print '              _/ /     \ \         '
