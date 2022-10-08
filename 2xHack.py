@@ -10,7 +10,7 @@ def main():
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
-   print '_,.                                              '
+   print '.                                                '
    print '                                                 '
    print '                                                 '
    print '          Pradeep2x                '
