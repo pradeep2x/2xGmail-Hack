@@ -13,7 +13,7 @@ def main():
    print '_,.                                              '
    print '                                                 '
    print '                                                 '
-   print '          Pradeep2x                '             '
+   print '          Pradeep2x                '
    print '      |\             //            '
    print '       \\           _!_            '
    print '        \\         /___\           '
