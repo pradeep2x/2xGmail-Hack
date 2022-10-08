@@ -22,7 +22,7 @@ def main():
    print '           \\/ (    *-*  ( )       '
    print '           /( \/ |  {&}  /\ \      '
    print '             \  / \     / _> )     '
-   print '              ``   >:::;-`````×.   '
+   print '              ``   >:::;-`````x.   '
    print '      2xHack      /:::/         \  '
    print '                 /  /||   {&}    | '
    print '                (  / (\         /  '
